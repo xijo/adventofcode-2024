@@ -10,7 +10,7 @@ folder = "day#{"%02d" % day}"
 
 blueprint =<<~EOS
 #!/usr/bin/env ruby
-# https://adventofcode.com/2023/day/#{day}
+# https://adventofcode.com/2024/day/#{day}
 
 # input = File.read('#{folder}/input').lines.map(&:strip)
 input = File.read('#{folder}/example').lines.map(&:strip)

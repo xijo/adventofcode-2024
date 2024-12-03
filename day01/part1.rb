@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# https://adventofcode.com/2023/day/1
+# https://adventofcode.com/2024/day/1
 
 input = File.read('day01/input').lines.map(&:strip)
 
