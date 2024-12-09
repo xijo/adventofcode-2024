@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
 # https://adventofcode.com/2024/day/7
 
-# input = File.read('day07/input').lines.map(&:strip)
-input = File.read('day07/example').lines.map(&:strip)
+input = File.read('day07/input').lines.map(&:strip)
+# input = File.read('day07/example').lines.map(&:strip)
 
 # hahaha alright, it takes a couple of minutes so whatever. I put some progress
 # in and let the CPU burn muhahahaarrr
